@@ -1,6 +1,6 @@
 # Question-Answering-using-QA-GNN-with-external-context-fusion
 
-The project was completed as part of the CSE6240 course at Georgia Tech. It was completed while working with Manoj Parmar, Sanchita Porwal, and Shreyas Verma.
+The project was completed as part of the CSE6240 course at Georgia Tech. It was completed while working with Palash Choudhary, Sanchita Porwal, and Shreyas Verma.
 
 The final project report can be found here: [Link](https://github.com/pchoudhary23/Question-Answering-using-QA-GNN-with-external-context-fusion/blob/main/Report.pdf)
 
